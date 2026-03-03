@@ -1,0 +1,19 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea/
+**/*.iml
+
+# Android
+**/local.properties
+**/.gradle/
+**/build/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
