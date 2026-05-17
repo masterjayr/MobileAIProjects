@@ -31,17 +31,12 @@ import androidx.compose.runtime.mutableStateOf
 import android.Manifest
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
-import android.graphics.Color
 import android.graphics.ImageFormat
 import android.graphics.Rect
 import android.graphics.YuvImage
 import androidx.compose.foundation.background
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
-import androidx.compose.ui.text.style.LineHeightStyle
 import androidx.compose.ui.unit.*
 import java.io.ByteArrayOutputStream
 import java.nio.ByteBuffer
